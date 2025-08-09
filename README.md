@@ -1,2 +1,2 @@
 # daily-practice 
-python is easy 
+python is easy  
